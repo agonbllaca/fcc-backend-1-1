@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Agon Bllaca",
 	"description": "FreeCodeCamp learning",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
