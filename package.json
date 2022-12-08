@@ -1,14 +1,18 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Agon Bllaca",
+	"author": "Agon Bllaca",
 	"description": "FreeCodeCamp learning",
 	"version": "1.2.0",
 	"dependencies": {
-		"@freecodecamp/example":"^1.2.13",
 		"express": "^4.14.0"
 	},
 	"license": "MIT",
-	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
