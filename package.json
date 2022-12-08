@@ -5,6 +5,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "MIT",
 	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"main": "server.js",
 	"scripts": {
